@@ -1,5 +1,4 @@
-## Weather Forecasting 
-**Duration:** Jan 2023 – May 2023  
+## Weather Forecasting  
 **Tools & Tech:** Python, Apache Airflow, Streamlit, SQL, Google Cloud Storage, Tableau, Databricks  
 
 ### Overview  
